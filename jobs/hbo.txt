@@ -1,0 +1,19 @@
+Work with the latest streaming media technologies and video capabilities
+Learn to evaluate multiple technical approaches and drive consensus with peers
+Use data to solve real world problems and improve customer experience, including prioritization of incoming issues reported by customers, partners, and internal QA
+A strong understanding of Computer Science fundamentals, including algorithms, data structures, and operating systems
+Fluency in a modern programming language, ideally Java, Swift, or TypeScript
+Be a quick learner that can leverage surrounding resources to solve problems
+Experience with streaming video delivery or playback
+Passion for software engineering with a strong sense of ownership for the code that you and your team write, and a desire to become an expert in client-side video technology
+Seek self-improvement and adapt to suggestions and feedback
+Hold yourself and your team to high standards while maintaining respectful relationships
+Ability to provide periodic on-call support for critical emergent customer-facing issues
+Bachelor’s degree in an engineering or science-related discipline or 2+ years of experience in software engineering on shipped consumer products or platforms
+DevOps experience, where you’ve owned and operated the systems you’ve developed
+Full-stack industry experience, or hands-on familiarity with both client and server technology
+Media technology (e.g. ExoPlayer, AVFoundation, HTML5 video)
+Streaming technology (e.g. DASH, HLS)
+DRM systems (e.g. FairPlay, Widevine)
+Device platforms (e.g. Android, iOS, tvOS)
+User experience telemetry

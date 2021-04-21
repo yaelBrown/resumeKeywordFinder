@@ -1,0 +1,17 @@
+The Endpoint Sustaining Engineering team focuses on improving the customer experience by resolving critical product issues in-field and improving overall product quality.  We actively troubleshoot complex problems and provide solutions to ensure customer success.  We work closely with the Feature Engineering teams as well as the Customer Support and Customer Escalations teams.  
+Candidates who are curious and seek a face paced, dynamic, collaborative environment will thrive as part of our team.   
+Investigate and resolve software problems reported by customers 
+Develop and test feature, maintenance, and hotfix releases 
+Configure and deploy test and reproduction environments using virtualized and cloud infrastructures 
+Focus on and contribute to the areas of performance, availability, scalability, reliability, and maintainability of the product  
+Participate in our ongoing process enhancements and software testing practices  
+Strong experience working with customers and troubleshooting production issues 
+Strong debugging, analysis, and problem-solving skills 
+Programming and scripting language experience  
+Working knowledge of Linux operating systems 
+Ability to quickly adapt to changing requirements and scope and priorities 
+Excellent inter-personal and teamwork skills 
+Fast and flexible learner 
+Strong written and oral communication skills 
+Understanding of network and cloud computing 
+Experience with FireEye Endpoint products or the computer security industry is a plus  

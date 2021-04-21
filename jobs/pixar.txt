@@ -1,0 +1,13 @@
+Our Software R&D team is responsible for developing Pixar’s open source and in-house software. We work very closely with both artists and engineers to build innovative filmmaking tools that enable our film production and continuously extend artistic reach.
+As a Core Software Engineer, you will work on developing and improving the performance of our internal software to support our Production departments. You would collaborate with us in a multi-functional team of developers, and help design and implement robust, easy-to-maintain code. Do you love writing high performance and high quality C++ code? If so, we would love to have you on the team!
+Contribute to world-class 3D graphics software applications and frameworks that enable and support Pixar’s film production
+Profile performance-critical code paths and creatively optimize algorithms to enhance interactive user experiences
+Collaborate with a team of engineers, technical artists, QA, build support and Project Management
+Work closely with other teams to plan and develop user-facing features to extend artistic reach, as well as APIs and frameworks that enhance the capabilities of our software
+Enjoy reading and writing C++ code
+Take pride and passion in crafting high-quality code with attention to detail and performance in mind
+Hold yourself and others to a high bar when it comes to engineering best practices, like writing maintainable code, providing good documentation and embracing automated testing
+Have prior exposure to, or interest in learning about performance profiling tools and workflows as well as programming on GNU/Linux
+Find fulfillment in designing and implementing APIs and frameworks in addition to user-facing features
+Thrive in a collaborative environment where you exchange knowledge with accomplished technicians and draw inspiration from world-class artists
+Bachelor's degree in Computer Science or equivalent professional experience or education
